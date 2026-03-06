@@ -107,6 +107,5 @@ pip install pandas pyarrow matplotlib numpy
 
 ## Sources
 
-- Strategy: Navi Trades YouTube — "How This ICC + CCT Trading Strategy Made Everything Click for Me"
-- ICC concept: Trades by Sai
-- CCT concept: Crimson Capital
+https://youtu.be/4ibsyQIg7pc?si=7kM-squmzlBnj76e
+
